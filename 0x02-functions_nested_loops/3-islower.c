@@ -5,7 +5,7 @@
  *
  * @c: theint we use for argument of function
  *
- * Return: Always 0
+ * Return: 1 if int c is lowercase, 0 if not
  */
 int _islower(int c)
 {
