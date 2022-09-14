@@ -3,7 +3,7 @@
 /**
  * _islower – function to check for lowercase character
  *
- * @c: is the int that will use for the argument of the function
+ * Declaration: is the int that will use for the argument of the function
  *
  * Return: Always 0
  */
