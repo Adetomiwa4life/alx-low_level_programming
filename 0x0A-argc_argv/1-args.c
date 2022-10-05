@@ -2,8 +2,8 @@
 
 /**
  * main - Print the name of the executable file
- * @argc: function to count Argument
- * @argv: funtion to indicated array of argument strings
+ * @argc: count of argument
+ * @argv: Array of argument strings
  *
  * Return: 0 for succesful exit
  */
